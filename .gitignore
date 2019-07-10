@@ -1,0 +1,7 @@
+# nodejs
+node_modules
+package-lock.json
+
+# nuxt
+.nuxt
+dist
